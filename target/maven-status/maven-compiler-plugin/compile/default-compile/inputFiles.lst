@@ -1,0 +1,13 @@
+E:\temp\JAVA\sfg-brewery\sfg-services\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\services\NewInventoryListener.java
+E:\temp\JAVA\sfg-brewery\sfg-services\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\BeerInventoryApplication.java
+E:\temp\JAVA\sfg-brewery\sfg-services\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\domain\BeerInventory.java
+E:\temp\JAVA\sfg-brewery\sfg-services\mssc-beer-inventory-service\src\main\java\guru\sfg\brewery\model\events\NewInventoryEvent.java
+E:\temp\JAVA\sfg-brewery\sfg-services\mssc-beer-inventory-service\src\main\java\guru\sfg\brewery\model\events\BeerDto.java
+E:\temp\JAVA\sfg-brewery\sfg-services\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\config\JmsConfig.java
+E:\temp\JAVA\sfg-brewery\sfg-services\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\repositories\BeerInventoryRepository.java
+E:\temp\JAVA\sfg-brewery\sfg-services\mssc-beer-inventory-service\src\main\java\guru\sfg\brewery\model\BeerInventoryDto.java
+E:\temp\JAVA\sfg-brewery\sfg-services\mssc-beer-inventory-service\src\main\java\guru\sfg\brewery\model\events\BeerEvent.java
+E:\temp\JAVA\sfg-brewery\sfg-services\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\domain\BaseEntity.java
+E:\temp\JAVA\sfg-brewery\sfg-services\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\web\mappers\DateMapper.java
+E:\temp\JAVA\sfg-brewery\sfg-services\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\web\mappers\BeerInventoryMapper.java
+E:\temp\JAVA\sfg-brewery\sfg-services\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\web\controllers\BeerInventoryController.java
